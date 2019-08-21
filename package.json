@@ -10,7 +10,10 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "luxon": "^1.17.2",
+    "markdown-it-vue": "^1.0.9",
+    "raw-loader": "^3.1.0",
     "vue": "^2.6.10",
+    "vue-awesome": "^3.5.4",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
   },
@@ -36,7 +39,9 @@
       "plugin:vue/essential",
       "@vue/standard"
     ],
-    "rules": {},
+    "rules": {
+      "import/no-webpack-loader-syntax": "off"
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }

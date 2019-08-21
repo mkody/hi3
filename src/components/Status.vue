@@ -33,23 +33,23 @@
     </div>
     <table class="details">
       <tr>
-        <td>Version :</td>
-        <td><abbr :title="sVerDate">{{ sVer }}</abbr></td>
+        <td>Version :&nbsp;</td>
+        <td>{{ sVer }}<v-icon scale="0.8" name="calendar" :title="sVerDate" /></td>
       </tr>
       <tr>
-        <td>Heure serveur :</td>
+        <td>Heure serveur :&nbsp;</td>
         <td>{{ sTime }}</td>
       </tr>
       <tr>
-        <td>Reset :</td>
+        <td>Reset :&nbsp;</td>
         <td>{{ sReset }}</td>
       </tr>
       <tr>
-        <td>Dirac/QS :</td>
+        <td>Dirac/QS :&nbsp;</td>
         <td>{{ sAbyss }}</td>
       </tr>
       <tr>
-        <td>Samsara/HQ :</td>
+        <td>Samsara/HQ :&nbsp;</td>
         <td>Reset dans {{ sOW }}</td>
       </tr>
     </table>
@@ -114,14 +114,19 @@ export default {
       .then(j => {
         this.servers.EU.version = this.servers.NA.version = `${j.global.version}(${j.global.build})`
         this.servers.EU.date = this.servers.NA.date = j.global.date
+
         this.servers.SEA.version = `${j.os.version}(${j.os.build})`
         this.servers.SEA.date = j.os.date
+
         this.servers.KR.version = `${j.kr.version}(${j.kr.build})`
         this.servers.KR.date = j.kr.date
+
         this.servers.JP.version = `${j.jp.version}(${j.jp.build})`
         this.servers.JP.date = j.jp.date
+
         this.servers.TW.version = `${j.tw.version}(${j.tw.build})`
         this.servers.TW.date = j.tw.date
+
         this.servers.CN.version = `${j.gf.version}(${j.gf.build})`
         this.servers.CN.date = j.gf.date
       })
@@ -132,7 +137,7 @@ export default {
       if (h < 10) h = '0' + h
       let m = Math.floor(diff.minutes + 1)
       if (m < 10) m = '0' + m
-      return h + ':' + m
+      return h + 'h' + m
     },
     tick () {
       this.sNow = DateTime.fromObject({ zone: this.servers[this.selServ].timezone })
@@ -140,6 +145,7 @@ export default {
     setServ (s) {
       localStorage.setItem('server', s)
       this.selServ = s
+      this.tick()
     }
   },
   computed: {
@@ -177,16 +183,16 @@ export default {
 
       if (n >= o1 && n < e1) {
         diff = e1.diff(n, ['hours', 'minutes'])
-        return 'Ouvert (' + this.dDiff(diff) + ')'
+        return 'Reste ' + this.dDiff(diff)
       } else if (n >= o2 && n < e2) {
         diff = e2.diff(n, ['hours', 'minutes'])
-        return 'Ouvert (' + this.dDiff(diff) + ')'
+        return 'Reste ' + this.dDiff(diff)
       } else if (n >= e1 && n < o2) {
         diff = o2.diff(n, ['hours', 'minutes'])
-        return 'Fermé (' + this.dDiff(diff) + ')'
+        return 'Ouvre dans ' + this.dDiff(diff)
       } else {
         diff = o1.diff(n, ['hours', 'minutes'])
-        return 'Fermé (' + this.dDiff(diff) + ')'
+        return 'Ouvre dans ' + this.dDiff(diff)
       }
     },
     sOW () {
@@ -214,10 +220,7 @@ export default {
 <style scoped lang="scss">
 .status {
   cursor: default;
-
-  h3 {
-    margin: 0 0 5px;
-  }
+  margin-bottom: 2em;
 
   .servers {
     display: flex;
@@ -249,7 +252,7 @@ export default {
     padding: 5px 10px;
     width: 100%;
 
-    abbr {
+    .fa-icon {
       cursor: help;
     }
 
@@ -260,8 +263,8 @@ export default {
       }
 
       &:not(:first-child) {
-        font-size: 1.2em;
         font-family: monospace;
+        font-size: 1.2em;
       }
     }
   }
