@@ -1,8 +1,9 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
-import store from './store'
 
+import MarkdownItVue from 'markdown-it-vue'
+import 'markdown-it-vue/dist/markdown-it-vue.css'
 import 'vue-awesome/icons/brands/google-play'
 import 'vue-awesome/icons/brands/android'
 import 'vue-awesome/icons/brands/app-store-ios'
@@ -17,11 +18,11 @@ import 'vue-awesome/icons/calendar'
 import 'vue-awesome/icons/info-circle'
 import Icon from 'vue-awesome/components/Icon'
 
+Vue.component('markdown-it-vue', MarkdownItVue)
 Vue.component('v-icon', Icon)
 Vue.config.productionTip = false
 
 new Vue({
   router,
-  store,
   render: h => h(App)
 }).$mount('#app')

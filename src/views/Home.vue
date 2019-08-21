@@ -23,8 +23,6 @@
 import Status from '@/components/Status.vue'
 import Download from '@/components/Download.vue'
 import Social from '@/components/Social.vue'
-import MarkdownItVue from 'markdown-it-vue'
-import 'markdown-it-vue/dist/markdown-it-vue.css'
 import news33 from 'raw-loader!@/assets/md/news-3.3.md'
 import newsPC from 'raw-loader!@/assets/md/news-pc.md'
 
@@ -33,8 +31,7 @@ export default {
   components: {
     Status,
     Download,
-    Social,
-    MarkdownItVue
+    Social
   },
   data () {
     return {

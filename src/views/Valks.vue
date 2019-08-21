@@ -5,15 +5,10 @@
 </template>
 
 <script>
-import MarkdownItVue from 'markdown-it-vue'
-import 'markdown-it-vue/dist/markdown-it-vue.css'
 import valksMD from 'raw-loader!@/assets/md/valks.md'
 
 export default {
   name: 'valks',
-  components: {
-    MarkdownItVue
-  },
   data () {
     return {
       content: valksMD,
