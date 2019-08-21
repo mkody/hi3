@@ -134,9 +134,15 @@ export default {
   methods: {
     dDiff (diff) {
       let h = diff.hours
-      if (h < 10) h = '0' + h
       let m = Math.floor(diff.minutes + 1)
+
+      if (m === 60) { // because of that +1
+        h += 1
+        m = 0
+      }
+      if (h < 10) h = '0' + h
       if (m < 10) m = '0' + m
+
       return h + 'h' + m
     },
     tick () {
