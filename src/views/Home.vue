@@ -2,8 +2,8 @@
   <div class="home">
     <div class="news">
       <h2>Actualités</h2>
-      <markdown-it-vue class="md-news" :content="news.pc" :options="mdOptions" />
-      <markdown-it-vue class="md-news" :content="news.update" :options="mdOptions" />
+      <markdown-it-vue class="md-news" :content="news.pc" />
+      <markdown-it-vue class="md-news" :content="news.update" />
     </div>
     <div class="side">
       <div class="note">
@@ -38,14 +38,6 @@ export default {
       news: {
         update: news33,
         pc: newsPC
-      },
-      mdOptions: {
-        linkAttributes: {
-          target: '_blank',
-          rel: 'noopener noreferrer'
-        },
-        breaks: true,
-        html: true
       }
     }
   }

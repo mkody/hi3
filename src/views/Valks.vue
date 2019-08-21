@@ -1,6 +1,6 @@
 <template>
   <div class="valks">
-    <markdown-it-vue class="md-body" :content="content" :options="mdOptions" />
+    <markdown-it-vue class="md-body" :content="content" />
   </div>
 </template>
 
@@ -11,15 +11,7 @@ export default {
   name: 'valks',
   data () {
     return {
-      content: valksMD,
-      mdOptions: {
-        linkAttributes: {
-          target: '_blank',
-          rel: 'noopener noreferrer'
-        },
-        breaks: true,
-        html: true
-      }
+      content: valksMD
     }
   }
 }
