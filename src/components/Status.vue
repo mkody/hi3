@@ -34,15 +34,15 @@
     <table class="details">
       <tr>
         <td>Version :&nbsp;</td>
-        <td>{{ sVer }}<v-icon scale="0.8" name="calendar" :title="sVerDate" /></td>
+        <td>{{ sVer }} <v-icon scale="0.8" name="calendar" :title="sVerDate" /></td>
       </tr>
       <tr>
         <td>Heure serveur :&nbsp;</td>
         <td>{{ sTime }}</td>
       </tr>
       <tr>
-        <td>Reset :&nbsp;</td>
-        <td>{{ sReset }}</td>
+        <td>Reset quotidien :&nbsp;</td>
+        <td>Dans {{ sReset }}</td>
       </tr>
       <tr>
         <td>Dirac/QS :&nbsp;</td>
