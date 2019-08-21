@@ -8,7 +8,8 @@
     <div class="side">
       <div class="note">
         &nbsp;<v-icon name="info-circle" scale="1" />&nbsp;
-        Ce site n'est pas officiel. Il regroupe des ressources en français pour le jeu
+        <strong>Ce site n'est pas officiel.</strong>
+        Il regroupe des ressources en français pour le jeu
         <a href="http://www.global.honkaiimpact3.com/"
           target="_blank" rel="noopener noreferrer">Honkai Impact 3rd</a>.
       </div>

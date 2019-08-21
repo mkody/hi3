@@ -1,14 +1,7 @@
 #### Sortie de la 3.3
 
 La 3.3 est arrivée et son lot de nouveautés aussi !
-A cause du retard supplémentaire, connectez-vous entre le 16 et 22 août pour recevoir 180 cristaux.
-Pour tout les petits détails (en anglais), [rendez-vous sur la patch-note officielle](http://www.global.honkaiimpact3.com/index.php/news/178).
-
-::: warning
-**Si vous n'avez plus de son/musique sous Android**, il faut forcer le re-téléchargement des fichiers audio.
-Pour cela, ouvrez un gestionnaire de fichier et supprimez le dossier "Audio" se trouvant dans:
-`Android/data/com.miHoYo.bh3global/files/assets/`
-:::
+Pour tous les petits détails (en anglais), [rendez-vous sur la patch-note officielle](http://www.global.honkaiimpact3.com/index.php/news/178).
 
 ##### Bronya: Herrscher of Reason
 
