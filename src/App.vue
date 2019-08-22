@@ -2,11 +2,13 @@
   <div id="app">
     <header>
       <nav>
-        <img alt="Honkai Impact 3rd Logo" src="./assets/logo.png">
+        <router-link class="logo" to="/">
+          <img alt="Honkai Impact 3rd Logo" src="./assets/logo.png">
+        </router-link>
         <div class="links">
           <router-link to="/">Accueil</router-link> -
-          <router-link to="/valks">Liste de Valkyries</router-link> -
-          <router-link to="/guides">Guides et Liens</router-link>
+          <router-link to="/valks"><span>Liste des </span>Valkyries</router-link> -
+          <router-link to="/guides">Guides<span> et Liens</span></router-link>
         </div>
       </nav>
     </header>
@@ -36,15 +38,19 @@ header {
     display: flex;
     height: 30px;
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 1280px;
     padding: 10px 20px;
     width: calc(100% - 4em);
 
-    img {
-      height: 64px;
-      margin-left: 20px;
-      position: absolute;
-      top: 7px;
+    .logo {
+      text-decoration: none;
+
+      img {
+        height: 64px;
+        margin-left: 20px;
+        position: absolute;
+        top: 7px;
+      }
     }
 
     .links {
@@ -73,7 +79,7 @@ header {
 
 #main {
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 1280px;
   padding: 2em;
   width: calc(100% - 4em);
 
@@ -83,6 +89,28 @@ header {
     line-height: 1.25;
     margin: 0 0 .5em;
     padding-bottom: .3em;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  header nav {
+    .logo img {
+      margin-left: -20px;
+    }
+
+    .links {
+      margin-left: 100px;
+
+      span {
+        display: none;
+      }
+    }
+  }
+
+  #main {
+    margin: 0;
+    padding: 2em .5em;
+    width: calc(100% - 1em);
   }
 }
 </style>

@@ -121,6 +121,7 @@ export default {
 
     .side {
       margin-left: 0;
+      min-width: unset;
       order: 1;
       text-align: center;
       width: 100%;
@@ -129,13 +130,18 @@ export default {
         margin-top: 0;
       }
 
+      .status {
+        margin: 0 0 1em;
+      }
+
       .download {
         display: inline-block;
-        margin-right: 2em;
+        margin: 0 1em 1em;
       }
 
       .social {
         display: inline-block;
+        margin: 0 1em 1em;
         vertical-align: top;
       }
     }
