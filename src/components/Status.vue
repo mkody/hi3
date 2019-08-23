@@ -182,7 +182,7 @@ export default {
       let o1 = DateTime.fromObject({ weekday: 1, hour: 15, minute: 0, seconds: 0, zone: this.servers[this.selServ].timezone })
       let e1 = o1.plus({ hours: 55 })
       let o2 = DateTime.fromObject({ weekday: 5, hour: 15, minute: 0, seconds: 0, zone: this.servers[this.selServ].timezone })
-      let e2 = o1.plus({ hours: 55 })
+      let e2 = o2.plus({ hours: 55 })
 
       let diff
       if (n.weekday === 7) o1 = o1.plus({ days: 7 })
