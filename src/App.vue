@@ -90,6 +90,23 @@ header {
     margin: 0 0 .5em;
     padding-bottom: .3em;
   }
+
+  .videoWrapper {
+    height: 0;
+    max-width: 100%;
+    padding-bottom: 56.25%;
+    position: relative;
+
+    iframe,
+    object,
+    embed {
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+  }
 }
 
 @media screen and (max-width: 950px) {

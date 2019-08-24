@@ -30,6 +30,14 @@ Cette page est à compléter avec le temps.
 ### En anglais
 
 - [Tableau pour le Memorial Arena.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUhYlLoEkAfh10SztZv0yn7KF83FP7DrtEVhYtztS7sFQNwVjD8jsrelGunE6L0BGqImfisavi_ELi/pubhtml?gid=0&single=true)
-  Histoire de prendre une bonne valkyrie pour tel boss. Notez qu'il faut avoir un bon stuff quand même.
+  Histoirede prendre une bonne valkyrie pour tel boss. Notez qu'il faut avoir un bon stuff quand même.
 - [Guide pour les invasions de Boss.](https://drive.google.com/file/d/1GYJXV8hfG4v4LEfFFJNeYK5CU2z4cPPC/view)
   Il n'est pas entièrement à jour mais donne des pistes.
+
+### Vidéos
+
+<div class="videoWrapper">
+  <iframe
+    src="https://www.youtube.com/embed/?hl=fr&list=PLsFAgKMnW3BAoPyOcynSSFD_IAb49mlI6&listType=playlist&playsinline=1&color=white&iv_load_policy=3"
+    width="720" height="405" frameborder="0" allowfullscreen></iframe>
+</div>
