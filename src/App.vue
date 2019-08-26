@@ -2,8 +2,8 @@
   <div id="app">
     <header>
       <nav>
-        <router-link class="logo" to="/">
-          <img alt="Honkai Impact 3rd Logo" src="./assets/logo.png">
+        <router-link class="title" to="/">
+          HI3
         </router-link>
         <div class="links">
           <router-link to="/">Accueil</router-link> -
@@ -42,6 +42,18 @@ header {
     padding: 10px 20px;
     width: calc(100% - 4em);
 
+    .title {
+        color: inherit;
+        font-size: 1.5rem;
+        font-weight: bold;
+        text-decoration: none;
+
+        &:visited {
+          color: inherit;
+        }
+    }
+
+/*
     .logo {
       text-decoration: none;
 
@@ -52,9 +64,10 @@ header {
         top: 7px;
       }
     }
+*/
 
     .links {
-      margin-left: 155px;
+      margin-left: 25px;
 
       a {
         color: inherit;
@@ -111,12 +124,14 @@ header {
 
 @media screen and (max-width: 950px) {
   header nav {
+/*
     .logo img {
       margin-left: -20px;
     }
+*/
 
     .links {
-      margin-left: 100px;
+      // margin-left: 100px;
 
       span {
         display: none;
