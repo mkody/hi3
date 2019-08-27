@@ -52,6 +52,10 @@
         <td>Samsara/HQ :&nbsp;</td>
         <td>Reset dans {{ sOW }}</td>
       </tr>
+      <tr v-if="sMT">
+        <td>MàJ prévue :&nbsp;</td>
+        <td>{{ sMT }}</td>
+      </tr>
     </table>
   </div>
 </template>
@@ -69,37 +73,69 @@ export default {
         EU: {
           version: '...',
           date: 'Loading...',
-          timezone: 'UTC+1'
+          timezone: 'UTC+1',
+          mt: {
+            day: 27,
+            month: 9,
+            hour: 7,
+            dur: 5
+          }
         },
         NA: {
           version: '...',
           date: 'Loading...',
-          timezone: 'UTC-5'
+          timezone: 'UTC-5',
+          mt: {
+            day: 27,
+            month: 9,
+            hour: 1,
+            dur: 5
+          }
         },
         SEA: {
           version: '...',
           date: 'Loading...',
-          timezone: 'UTC+8'
+          timezone: 'UTC+8',
+          mt: {
+            day: 27,
+            month: 9,
+            hour: 12,
+            dur: 6
+          }
         },
         KR: {
           version: '...',
           date: 'Loading...',
-          timezone: 'UTC+9'
+          timezone: 'UTC+9',
+          mt: '2019-09-27'
         },
         JP: {
           version: '...',
           date: 'Loading...',
-          timezone: 'UTC+9'
+          timezone: 'UTC+9',
+          mt: {
+            day: 27,
+            month: 9,
+            hour: 11,
+            dur: 7
+          }
         },
         TW: {
           version: '...',
           date: 'Loading...',
-          timezone: 'UTC+8'
+          timezone: 'UTC+8',
+          mt: '2019-09-27'
         },
         CN: {
           version: '...',
           date: 'Loading...',
-          timezone: 'UTC+8'
+          timezone: 'UTC+8',
+          mt: {
+            day: 29,
+            month: 8,
+            hour: 7,
+            dur: 5
+          }
         }
       }
     }
@@ -160,6 +196,39 @@ export default {
     },
     sVerDate () {
       return this.servers[this.selServ].date
+    },
+    sMT () {
+      const mt = this.servers[this.selServ].mt
+      if (typeof mt === 'string') {
+        if (mt === this.servers[this.selServ].date) return null
+        if ((Date.parse(mt) + 82800000) > Date.now()) return 'le ' + mt
+      } else if (typeof mt === 'object') {
+        // set countdown
+        let r = DateTime.fromObject({
+          day: mt.day,
+          month: mt.month,
+          hour: mt.hour,
+          minute: 0,
+          seconds: 0,
+          zone: this.servers[this.selServ].timezone
+        })
+
+        const diff = r.diff(this.sNow, ['hours', 'minutes'])
+
+        if (diff.minutes < 0) {
+          // we've past it, change diff to duration
+          const nR = r.plus({ hours: mt.dur })
+          const nDiff = nR.diff(this.sNow, ['hours', 'minutes'])
+
+          if (nDiff.minutes < 0) return null
+
+          return 'reste ' + this.dDiff(nDiff)
+        }
+
+        return 'dans ' + this.dDiff(diff)
+      }
+
+      return null
     },
     sTime () {
       if (this.sNow === null) return '...'
