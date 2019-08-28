@@ -133,7 +133,7 @@ export default {
           mt: {
             day: 29,
             month: 8,
-            hour: 7,
+            hour: 10,
             dur: 5
           }
         }
