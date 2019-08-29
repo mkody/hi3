@@ -24,6 +24,8 @@ Cette page est à compléter avec le temps.
   - [Rita: Phantom Iron / Fer Fantôme](https://docs.google.com/document/d/1S6brUuQh8a_T0kL9d9on1RElUq1I47mgza5ONnWfQK0/edit)
   - [Bronya: Herrscher of Reason / Herrscher de Raison](https://docs.google.com/document/d/1hn7h-oRvEhCtfCsBcaYze1rnBj0ekTI7SZ7bM7o7-rc/edit)
   - [Kiana: Void Drifter / Vagabond du Néant](https://docs.google.com/document/d/1l5_tet_Mofuie6BL8buRcx5iCdPVawoFrYipN6H8tJg/edit)
+- [Guide: Marque de Prime par Yd.](https://docs.google.com/document/d/1-rrZJ31nmDDEjnHyYptME2DABDhssYmMZtC4XqNYvkY)  
+  Ou en anglais "Bounty Mark".
 - [Les guides de NJ.](https://docs.google.com/document/d/1azLtF8IRnLahK97ltakSs_V1cnfJp13YSnaxjX03Su0/edit)
   Guide avancé en français, diverses parties ne sont plus à jour depuis la 3.1.
 
