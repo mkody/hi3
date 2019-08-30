@@ -1,0 +1,37 @@
+name: Lint and deploy
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - run: npm install
+    - name: lint
+      run: npm lint
+  build-deploy:
+    needs: lint
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - run: npm install -g yarn
+    - run: yarn install
+    - name: build
+      run: yarn build
+    - name: deploy
+      uses: peaceiris/actions-gh-pages@v1.1.0
+      if: success()
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./dist
