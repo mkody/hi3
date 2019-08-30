@@ -166,9 +166,12 @@ export default {
         this.servers.CN.version = `${j.gf.version}(${j.gf.build})`
         this.servers.CN.date = j.gf.date
       })
+
+    // TODO: Fetch update dates too
   },
   methods: {
     dDiff (diff) {
+      let d = ''
       let h = diff.hours
       let m = Math.floor(diff.minutes + 1)
 
@@ -176,10 +179,16 @@ export default {
         h += 1
         m = 0
       }
+
+      if (h > 48) { // display days if over 48h
+        d = Math.floor(h / 24) + 'j '
+        h -= Math.floor(h / 24) * 24
+      }
+
       if (h < 10) h = '0' + h
       if (m < 10) m = '0' + m
 
-      return h + 'h' + m
+      return d + h + 'h' + m
     },
     tick () {
       this.sNow = DateTime.fromObject({ zone: this.servers[this.selServ].timezone })
@@ -199,6 +208,8 @@ export default {
     },
     sMT () {
       const mt = this.servers[this.selServ].mt
+      if (this.sNow === null) return null
+
       if (typeof mt === 'string') {
         if (mt === this.servers[this.selServ].date) return null
         if ((Date.parse(mt) + 82800000) > Date.now()) return 'le ' + mt
