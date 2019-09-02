@@ -18,6 +18,22 @@
   </div>
 </template>
 
+<script>
+export default {
+  name: 'App',
+  metaInfo: {
+    title: 'Ressources en français pour HI3',
+    meta: [
+      {
+        vmid: 'description',
+        name: 'description',
+        content: 'Actus et quelques infos sur Honkai Impact 3rd en français.'
+      }
+    ]
+  }
+}
+</script>
+
 <style lang="scss">
 body {
   color: #24292e;
