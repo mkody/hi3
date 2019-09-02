@@ -145,6 +145,9 @@ export default {
     this.tick()
     setInterval(this.tick, 1000)
 
+    // Stop here if it's a prerender
+    if (window.__PRERENDER_INJECTED) return
+
     fetch('https://s.kdy.ch/hi3s.json')
       .then(r => r.json())
       .then(j => {
