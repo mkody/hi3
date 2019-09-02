@@ -18,7 +18,7 @@ jobs:
     - name: build
       run: yarn build
     - name: deploy
-      uses: peaceiris/actions-gh-pages@v1.1.0
+      uses: peaceiris/actions-gh-pages@master
       if: success()
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
