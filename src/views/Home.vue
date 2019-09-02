@@ -84,8 +84,8 @@ export default {
 
   .side {
     margin-left: 2em;
-    min-width: 350px;
-    width: 350px;
+    min-width: 370px;
+    width: 370px;
 
     h3 {
       margin: 0 0 5px;
