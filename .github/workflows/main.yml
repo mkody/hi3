@@ -10,17 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '10.x'
-    - run: npm install -g yarn
-    - run: yarn install
-    - name: build
-      run: yarn build
-    - name: deploy
-      uses: peaceiris/actions-gh-pages@master
-      if: success()
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@master
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./dist
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: dist
+        CNAME: hi3.kdy.ch
+        BUILD_SCRIPT: npm i -g yarn && yarn install && yarn build
