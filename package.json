@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "2",
     "github-markdown-css": "^3.0.1",
-    "luxon": "^1.17.2",
+    "luxon": "^1.17.3",
     "markdown-it": "^10.0.0",
     "markdown-it-container": "^2.0.0",
     "vue": "^2.6.10",
