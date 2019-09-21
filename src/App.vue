@@ -136,6 +136,17 @@ header {
       width: 100%;
     }
   }
+
+  .markdown-body s {
+    color: black;
+    background: black;
+    text-decoration: none;
+
+    &:hover,
+    &:active {
+      color: white;
+    }
+  }
 }
 
 @media screen and (max-width: 950px) {

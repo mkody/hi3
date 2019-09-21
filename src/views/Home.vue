@@ -2,15 +2,15 @@
   <div class="home">
     <div class="news">
       <h2>Actualités</h2>
-      <markdown-it-vue class="md-news" :content="news.pc" />
       <markdown-it-vue class="md-news" :content="news.update" />
+      <markdown-it-vue class="md-news" :content="news.pc" />
     </div>
     <div class="side">
       <div class="note">
         &nbsp;<v-icon name="info-circle" scale="1" />&nbsp;
         <strong>Ce site n'est pas officiel.</strong>
         Il regroupe des ressources en français pour le jeu
-        <a href="http://www.global.honkaiimpact3.com/"
+        <a href="https://honkaiimpact3.mihoyo.com/global/fr-fr"
           target="_blank" rel="noopener noreferrer">Honkai Impact 3rd</a>.
       </div>
       <status />
@@ -24,7 +24,7 @@
 import Status from '@/components/Status.vue'
 import Download from '@/components/Download.vue'
 import Social from '@/components/Social.vue'
-import news33 from 'raw-loader!@/assets/md/news-3.3.md'
+import news34 from 'raw-loader!@/assets/md/news-3.4.md'
 import newsPC from 'raw-loader!@/assets/md/news-pc.md'
 
 export default {
@@ -37,7 +37,7 @@ export default {
   data () {
     return {
       news: {
-        update: news33,
+        update: news34,
         pc: newsPC
       }
     }
