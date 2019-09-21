@@ -75,7 +75,7 @@ export default {
           date: 'Loading...',
           timezone: 'UTC+1',
           mt: {
-            day: 27,
+            day: 26,
             month: 9,
             hour: 7,
             dur: 5
@@ -86,7 +86,7 @@ export default {
           date: 'Loading...',
           timezone: 'UTC-5',
           mt: {
-            day: 27,
+            day: 26,
             month: 9,
             hour: 1,
             dur: 5
@@ -97,7 +97,7 @@ export default {
           date: 'Loading...',
           timezone: 'UTC+8',
           mt: {
-            day: 27,
+            day: 26,
             month: 9,
             hour: 12,
             dur: 6
@@ -107,7 +107,7 @@ export default {
           version: '...',
           date: 'Loading...',
           timezone: 'UTC+9',
-          mt: '2019-09-27'
+          mt: '2019-09-26'
         },
         JP: {
           version: '...',
@@ -124,7 +124,7 @@ export default {
           version: '...',
           date: 'Loading...',
           timezone: 'UTC+8',
-          mt: '2019-09-27'
+          mt: '2019-09-26'
         },
         CN: {
           version: '...',
