@@ -1,6 +1,6 @@
 ## Valkyries
 
-A dater de la v3.3, il y a 43 battlesuits (+ 3 augmented) pour 12 personnages.
+A dater de la v3.4, il y a 43 battlesuits (+ 4 augmented) pour 12 personnages.
 
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
@@ -51,6 +51,7 @@ _Dernière mise à jour: 26 juillet 2019_
 |             | VE   | Violet Executer           | Exécutrice Violette             | Mech      | S    | -    |
 |             | CH   | Celestial Hymn            | Hymne Céleste                   | Bio       | S    | -    |
 |             | LK   | Luna Kindred              | Luna Kindred                    | Bio       | A    | VP   |
+|             | TP   | Twilight Paladin          | Paladin du Crépuscule           | Mech      | -    | (VE) |
 | &nbsp;      |      |                           |                                 |           |      |      |
 | Fu Hua      | VA   | Valkyrie Accipiter        | Accipiter Valkyrie              | Psy       | A    | -    |
 |             | NS   | Night Squire              | Écuyère Nocturne                | Bio       | A    | -    |
