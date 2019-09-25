@@ -5,8 +5,6 @@ A dater de la v3.4, il y a 43 battlesuits (+ 4 augmented) pour 12 personnages.
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
 
-_Dernière mise à jour: 26 juillet 2019_
-
 | Perso       | Code | Nom EN                    | Nom FR                          | Type      | Rang | A/C  |
 |------------:|:----:|---------------------------|---------------------------------|:---------:|:----:|:----:|
 | Kiana       | WC   | White Comet               | Comète Blanche                  | Mech      | B    | -    |
