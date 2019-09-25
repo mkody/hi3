@@ -2,15 +2,18 @@
 
 Cette 3.4, nommée _Edict of Twilight_ (_Jugement du crépuscule_) sera disponible à tous après la maintenance du 26 septembre.
 
-[Trailer Chinois ici.](https://www.youtube.com/watch?v=tRZp1dGERPQ)
-
-> NOTE: Cet article sera étendu avec de nouvelles informations.
+[PV de cette mise à jour.](https://www.youtube.com/watch?v=MIhS7-TtD3E)
 
 ##### Augment core pour VE: Twilight Paladin (Paladin du Crépuscule)
 
 L'Exécutrice Violette a elle aussi le droit à son _noyau d'augmentation_ !
 
-![La magnifique Twilight Paladin](/img/news/twilight-paladin.jpg)
+<div class="videoWrapper">
+  <video
+    width="480" autoplay muted loop controls="false"
+    cover="/img/news/twilight-paladin.jpg"
+    src="https://s.kdy.ch/hi3/PV_TP.mp4"></video>
+</div>
 
 ##### Chapitre XII: Plain of Vigrid
 

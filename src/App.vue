@@ -128,7 +128,8 @@ header {
 
     iframe,
     object,
-    embed {
+    embed,
+    video {
       height: 100%;
       left: 0;
       position: absolute;
