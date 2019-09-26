@@ -78,7 +78,7 @@ export default {
             day: 26,
             month: 9,
             hour: 7,
-            dur: 5
+            dur: 6
           }
         },
         NA: {
@@ -89,7 +89,7 @@ export default {
             day: 26,
             month: 9,
             hour: 1,
-            dur: 5
+            dur: 6
           }
         },
         SEA: {
