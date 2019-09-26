@@ -2,7 +2,8 @@
 
 Cette 3.4, nommée _Edict of Twilight_ (_Jugement du crépuscule_) sera disponible à tous après la maintenance du 26 septembre.
 
-[PV de cette mise à jour.](https://www.youtube.com/watch?v=MIhS7-TtD3E)
+- [PV de cette mise à jour.](https://www.youtube.com/watch?v=fWfRu_CKVlM)
+- [Détails de la mise à jour.](https://honkaiimpact3.mihoyo.com/global/en-us/news/1118)
 
 ##### Augment core pour VE: Twilight Paladin (Paladin du Crépuscule)
 
