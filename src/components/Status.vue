@@ -114,7 +114,7 @@ export default {
           date: 'Loading...',
           timezone: 'UTC+9',
           mt: {
-            day: 27,
+            day: 26,
             month: 9,
             hour: 11,
             dur: 7
