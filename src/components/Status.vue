@@ -143,34 +143,34 @@ export default {
   mounted () {
     this.selServ = localStorage.getItem('server') || 'EU'
 
-    // Stop here if it's a prerender
-    if (!window.__PRERENDER_INJECTED) {
-      this.tick()
-      setInterval(this.tick, 1000)
+    // Don't continue if pre-rendering
+    if (window.__PRERENDER_INJECTED) return
 
-      // TODO: Fetch update dates too
-      fetch('https://s.kdy.ch/hi3s.json')
-        .then(r => r.json())
-        .then(j => {
-          this.servers.EU.version = this.servers.NA.version = `${j.global.version}(${j.global.build})`
-          this.servers.EU.date = this.servers.NA.date = j.global.date
+    this.tick()
+    setInterval(this.tick, 1000)
 
-          this.servers.SEA.version = `${j.os.version}(${j.os.build})`
-          this.servers.SEA.date = j.os.date
+    // TODO: Fetch update dates too
+    fetch('https://s.kdy.ch/hi3s.json')
+      .then(r => r.json())
+      .then(j => {
+        this.servers.EU.version = this.servers.NA.version = `${j.global.version}(${j.global.build})`
+        this.servers.EU.date = this.servers.NA.date = j.global.date
 
-          this.servers.KR.version = `${j.kr.version}(${j.kr.build})`
-          this.servers.KR.date = j.kr.date
+        this.servers.SEA.version = `${j.os.version}(${j.os.build})`
+        this.servers.SEA.date = j.os.date
 
-          this.servers.JP.version = `${j.jp.version}(${j.jp.build})`
-          this.servers.JP.date = j.jp.date
+        this.servers.KR.version = `${j.kr.version}(${j.kr.build})`
+        this.servers.KR.date = j.kr.date
 
-          this.servers.TW.version = `${j.tw.version}(${j.tw.build})`
-          this.servers.TW.date = j.tw.date
+        this.servers.JP.version = `${j.jp.version}(${j.jp.build})`
+        this.servers.JP.date = j.jp.date
 
-          this.servers.CN.version = `${j.gf.version}(${j.gf.build})`
-          this.servers.CN.date = j.gf.date
-        })
-    }
+        this.servers.TW.version = `${j.tw.version}(${j.tw.build})`
+        this.servers.TW.date = j.tw.date
+
+        this.servers.CN.version = `${j.gf.version}(${j.gf.build})`
+        this.servers.CN.date = j.gf.date
+      })
   },
   methods: {
     dDiff (diff) {

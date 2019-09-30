@@ -11,7 +11,12 @@ module.exports = {
       ],
       useRenderEvent: true,
       headless: true,
-      onlyProduction: true
+      onlyProduction: true,
+      customRendererConfig: {
+        inject: {
+          donotfetch: true
+        }
+      }
     }
   }
 }
