@@ -12,11 +12,11 @@
         href="https://apps.apple.com/us/app/honkai-impact-3rd/id1336342304"
         target="_blank" rel="noopener noreferrer"><v-icon name="brands/app-store-ios" /> App Store</a>
       <br>
-      <a class="btn btn--pc"
-        href="http://dldir1.qq.com/syzs/GameDownload_Honkai_Impact_3rd_haiwai-by13_100512_1.0.8643.123.exe"
-        target="_blank" rel="noopener noreferrer"><v-icon name="desktop" /> Emulateur PC</a>
+      <a class="btn btn--windows"
+        href="https://fr.bignox.com/fr/download/fullPackage"
+        target="_blank" rel="noopener noreferrer"><v-icon name="brands/windows" /> Nox pour Windows</a>
       <a class="btn btn--mac"
-        href="https://www.bignox.com/en/download/fullPackage/mac_fullzip"
+        href="https://fr.bignox.com/fr/download/fullPackage/mac_fullzip"
         target="_blank" rel="noopener noreferrer"><v-icon name="brands/apple" /> Nox pour Mac</a>
     </div>
   </div>
@@ -64,7 +64,7 @@ export default {
         margin-left: .5em;
       }
 
-      &--pc {
+      &--windows {
         margin-top: .5em;
       }
 
