@@ -6,7 +6,7 @@
         href="https://play.google.com/store/apps/details?id=com.miHoYo.bh3global"
         target="_blank" rel="noopener noreferrer"><v-icon name="brands/google-play" /> Play Store</a>
       <a class="btn btn--apk"
-        href="https://www.apkmirror.com/?s=com.miHoYo.bh3global&post_type=app_release&searchtype=apk"
+        :href="apk"
         target="_blank" rel="noopener noreferrer"><v-icon name="brands/android" /> APK</a>
       <a class="btn btn--ios"
         href="https://apps.apple.com/us/app/honkai-impact-3rd/id1336342304"
@@ -24,7 +24,12 @@
 
 <script>
 export default {
-  name: 'download'
+  name: 'download',
+  data () {
+    return {
+      apk: 'https://s.kdy.ch/Honkai%20Impact%203rd_3.4.0.apk'
+    }
+  }
 }
 </script>
 
