@@ -21,7 +21,8 @@ module.exports = {
       renderRoutes: [
         '/',
         '/valks',
-        '/guides'
+        '/guides',
+        '/news'
       ],
       useRenderEvent: true,
       headless: true,
