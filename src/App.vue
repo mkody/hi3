@@ -138,7 +138,7 @@ header {
     }
   }
 
-  .markdown-body s {
+  .markdown-body spoilers {
     color: black;
     background: black;
     text-decoration: none;

@@ -11,7 +11,7 @@ L'Exécutrice Violette a elle aussi le droit à son _noyau d'augmentation_ !
 
 <div class="videoWrapper">
   <video
-    width="480" autoplay muted loop controls="false"
+    width="480" autoplay muted loop
     cover="/img/news/twilight-paladin.jpg"
     src="https://s.kdy.ch/hi3/PV_TP.mp4"></video>
 </div>
@@ -22,7 +22,7 @@ Dans ce chapitre en deux actes, nous feront rapidement des sauts entre notre mon
 Elle y croise d'ailleurs une Yae et un tout nouveau personnage - dont le suivi des comics devrait vous aider à le reconnaître.
 
 Spoilers:
-<s>Ce nouveau personnage est Kevin, le Kaslana du monde précédent et il a une mission, détruire les Herrschers - même s'il faut tuer l'hôte. VE débloquera aussi dans l'histoire son augment core pour devenir la Twilight Paladin et sauver Lilya qui fut capturée et tranformées en monstre Honkai. Et aussi, l'Herrscher dans Seele se réveille et nous fait découvrir (la magnifique) Dark Seele. Je vous laisse découvrir le reste par vous-même. :)</s>
+<spoilers>Ce nouveau personnage est Kevin, le Kaslana du monde précédent et il a une mission, détruire les Herrschers - même s'il faut tuer l'hôte. VE débloquera aussi dans l'histoire son augment core pour devenir la Twilight Paladin et sauver Lilya qui fut capturée et tranformées en monstre Honkai. Et aussi, l'Herrscher dans Seele se réveille et nous fait découvrir (la magnifique) Dark Seele. Je vous laisse découvrir le reste par vous-même. :)</spoilers>
 
 ![Capture d'écran de la CG d'annonce](/img/news/chap-XII.jpg)
 
@@ -32,11 +32,11 @@ Il s'agit ici de la préparation d'un grand carnaval et vous pourrez récupérer
 
 ![Image promo de Chine](/img/news/fiesta-school-event.jpg)
 
-##### Niveau max des capitaines à 85 et PRIs en plus
+##### Niveau max des capitaines à 85 et PRIs ajoutés
 
 Jusqu'à présent, après avoir "percé le plafond", vous pouviez monter jusqu'au niveau 82.
 Et bien cette limite passe à 85 et vous pourrez obtenir des Honkai Cubes ainsi que des améliorations pour les PRI-Armes.
-D'ailleurs, les PRI-Armes _MAG-Typhoon_ et _Frozen Naraka_ sont ajoutés.
+D'ailleurs, les PRI-Armes (des armes 5 étoiles qui peuvent être passés à 6 étoiles) _MAG-Typhoon_ et _Frozen Naraka_ sont ajoutés.
 
 ##### 2 nouvelles armes et un set de stigmata
 
@@ -56,10 +56,10 @@ Bien d'autres nouveautés l'accompagne avec l'amélioration de ses skills.
 
 ##### Nouvel abonnement
 
-Le service d'abonnement sera disponible dès le lancement de la mise à jour.
+Le service de Battle Pass est de nouveau mis à jour.
 
-Plus vous vous abonnez pour une longue durée, plus vous aurez des bundles journaliers moins chers (qui contiennent des _Valkyrie Fragvyom_, des potions de stamina, des astéries et plus).
-Pour votre première inscription et jusqu'au 25 octobre (inclus), vous auvez le droit à 20% de réduction.
+N'oubliez pas que plus vous payez, plus vous pouvez obtenir d'objets en jouant régulièrement (des _Valkyrie Fragvyom_, des potions de stamina, des astéries et plus).
+~~Pour votre première inscription et jusqu'au 25 octobre (inclus), vous auvez le droit à 20% de réduction.~~
 
 ##### Divers évents
 
@@ -67,4 +67,4 @@ Pour votre première inscription et jusqu'au 25 octobre (inclus), vous auvez le 
 - Du 26 septembre 13h jusqu'au 14 novembre, dépensez jusqu'à 30 mille cristaux dans les ravitaillements pour obtenir directement VE. Et pour chaque 1'400 cristaux, vous obtenez une carte de ravitaillement ciblé.
 - Les niveaux-challenge liés au nouveau chapitre seront ouverts dès le 27 septembre à 11h. Récupérez des _Twilight Core_ (pour VE), un stigma _Theresa: Twilight Paladin (B)_, des cristaux et des Honkai Shards.
 - Du 27 septembre 13h jusqu'au 11 octobre, VE, VK et 6S seront dans le "EXPA Select" (dans le ravitaillement).
-- Du 3 octobre au 13 novembre, un Honkai Cube et jusqu'à 40 _Phase Shifter_ sont récupérables dans les missions journalières.
+- Du 3 octobre au 13 novembre, un Honkai Cube et jusqu'à 40 _Phase Shifter_ sont récupérables dans les missions journalières (voir dans les Events).
