@@ -10,7 +10,7 @@ Une Seele de rang S fait son apparition. Son Ulti lui fait switch avec Dark Seel
 
 // Todo images
 
-Cette nouvelle Seele est vue comme très forte pour ses attaques physiques. Elle est placée au même niveau que NS (Rang SSS), mais toujours derrière Theresa TP (et son core 5⋆).
+Cette nouvelle Seele est vue comme très forte pour ses attaques physiques. Elle est placée au même niveau que NS (Rang SSS), mais toujours derrière Theresa TP (et son core 5★).
 
 // Todo stats
 
@@ -23,15 +23,15 @@ Cette nouvelle Seele est vue comme très forte pour ses attaques physiques. Elle
 Auparavant, il vous fallait par exemple 100 fragments pour passer une Valk (non-"awekening") de rang S à SS. Maintenant, le système fonctionne comme les armes, stigmatas ou ELFs : vous avez des "niveaux" intermédiaire avec des petites étoiles qui apporteront quelques bonus jusqu'à ce que vous débloquez le rang au complet, vous permettant ainsi de débloquer les skills liés. Passer de S à SS nécessite 3 étapes et SS à SSS 4 étapes.
 
 Exemple pour passer de S à SS :
-- S à S⋆ => 30 frags
-- S⋆ à S⋆⋆ => 30 frags
-- S⋆⋆ à SS => 40 frags
+- S à S★ => 30 frags
+- S★ à S★★ => 30 frags
+- S★★ à SS => 40 frags
 
 Ou pour une Awakened de SS à SSS :
-- SS à SS⋆ => 150
-- SS⋆ à SS⋆⋆ => 150
-- SS⋆⋆ à SS⋆⋆⋆ => 150
-- SS⋆⋆⋆ à SSS => 150
+- SS à SS★ => 150
+- SS★ à SS★★ => 150
+- SS★★ à SS★★★ => 150
+- SS★★★ à SSS => 150
 
 // Todo images
 

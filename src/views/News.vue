@@ -24,6 +24,9 @@ export default {
     }
   },
   mounted () {
+    // Don't continue if pre-rendering
+    if (window.__PRERENDER_INJECTED) return
+
     this.fetchNews()
     window.addEventListener('hashchange', this.fetchNews)
   },
