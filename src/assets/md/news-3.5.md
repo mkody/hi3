@@ -40,13 +40,13 @@ Ou pour une awakened de SS à SSS :
 
 ##### Nouvelles tenues
 
-###### Rozalyia
+###### Rozalyia (Molotov Cherry)
 
-La tenue de Roza pour Halloween peut être obtenue gratuitement à travers un nouveau bingo !
+La tenue de Roza pour Halloween !
 
 ![VR avec sa nouvelle tenue](/img/news/3.5_mc_costume.jpg)
 
-###### Lilya
+###### Lilya (Blueberry Blitz)
 
 Lilya elle aussi a une tenue pour Halloween et est à obtenir durant l'event du serveur.
 
@@ -58,11 +58,18 @@ On dirait une recollor en orange de sa tenue originale mais elle est notée à 4
 
 ![Rite avec sa nouvelle tenue](/img/news/3.5_ur_costume.jpg)
 
-###### Void Drifter
+###### Kiana (Void Drifter)
 
 Et la tenue de Void Drifer obtient une sorte de variation en rouge.
 
 ![VR avec sa nouvelle tenue](/img/news/3.5_vd_costume.jpg)
+
+###### Himeko (Blood Rose)
+
+Himeko porte une robe de mariée et a même un effet qui fait apparaître des ailes !
+
+![BR avec sa nouvelle tenue](/img/news/3.5_br_costume.gif)
+
 
 ##### 2 Nouvelles armes PRI
 
