@@ -13,7 +13,7 @@ export default {
       {
         vmid: 'description',
         name: 'description',
-        content: 'Actualités des version d\'Honkai Impact 3rd.'
+        content: 'Actualités d\'Honkai Impact 3rd.'
       }
     ]
   },
