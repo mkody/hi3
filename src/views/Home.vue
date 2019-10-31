@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="news">
-      <h2>Actualités <small><a href="/news">(voir tout)</a></small></h2>
+      <h2>Actualités <router-link to="news" tag="small" class="link">[voir tout]</router-link></h2>
       <markdown-it-vue class="md-news" :content="news.update" />
       <markdown-it-vue class="md-news" :content="news.pc" />
     </div>
@@ -57,28 +57,6 @@ export default {
       box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, .25);
       margin-bottom: 1em;
       padding: 10px;
-
-      h4 {
-        font-size: 1.1em;
-        margin-bottom: .5em;
-      }
-
-      h5 {
-        font-weight: bold;
-        margin-bottom: .5em;
-        margin-top: 1.5em;
-
-        &:before {
-          content: '⮞ '
-        }
-      }
-
-    img {
-        display: block;
-        margin: 0 auto;
-        max-width: 480px;
-        width: 100%;
-      }
     }
   }
 

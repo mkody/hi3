@@ -41,7 +41,7 @@ export default {
           })
       } else {
         this.content = `
-### Aucune news sélectionnée.
+### Actualités
 
 - [3.5](#news-3.5)
 - [3.4](#news-3.4)

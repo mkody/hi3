@@ -120,6 +120,10 @@ header {
     padding-bottom: .3em;
   }
 
+  .link {
+    cursor: pointer;
+  }
+
   .videoWrapper {
     height: 0;
     max-width: 100%;
@@ -138,14 +142,38 @@ header {
     }
   }
 
-  .markdown-body spoilers {
-    color: black;
-    background: black;
-    text-decoration: none;
+  .markdown-body {
+    h4 {
+      font-size: 1.1em;
+      margin-bottom: .5em;
+    }
 
-    &:hover,
-    &:active {
-      color: white;
+    h5 {
+      font-weight: bold;
+      margin-bottom: .5em;
+      margin-top: 1.5em;
+
+      &:before {
+        content: '⮞ '
+      }
+    }
+
+    img {
+      display: block;
+      margin: 0 auto;
+      max-width: 480px;
+      width: 100%;
+    }
+
+    spoilers {
+      color: black;
+      background: black;
+      text-decoration: none;
+
+      &:hover,
+      &:active {
+        color: white;
+      }
     }
   }
 }
