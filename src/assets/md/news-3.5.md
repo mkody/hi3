@@ -40,15 +40,15 @@ Ou pour une awakened de SS à SSS :
 
 ##### Nouvelles tenues
 
-###### Rozalyia (Molotov Cherry)
+###### Rozaliya (Molotov Cherry)
 
 La tenue de Roza pour Halloween !
 
 ![VR avec sa nouvelle tenue](/img/news/3.5_mc_costume.jpg)
 
-###### Lilya (Blueberry Blitz)
+###### Liliya (Blueberry Blitz)
 
-Lilya elle aussi a une tenue pour Halloween et est à obtenir durant l'event du serveur.
+Liliya elle aussi a une tenue pour Halloween et est à obtenir durant l'event du serveur.
 
 ![BB avec sa nouvelle tenue](/img/news/3.5_bb_costume.jpg)
 
@@ -92,7 +92,7 @@ Les dortoirs restent par contre inchangés.
 - Un nouveau "type" dans les attaques fait apparition, les attaques "lourdes".
 L'exemple la plus utilisé est l'attaque chargée ou le QTE de Theresa LK. Ces attaques feront des dommages supplémentaires aux boucliers ennemi.
 - Il est maintenant possible de désactiver les QTE pour une Valkyrie, ce qui va devenir utile pour les stratégies en MA.
-- La barre de dégâts des énnemis, affiché en haut de l'écran, montre maintenant les différence d'HP quand il se prennent des dégâts, comme dans un jeu de combat.  
+- La barre de dégâts des ennemis, affiché en haut de l'écran, montre maintenant les différence d'HP quand il se prennent des dégâts, comme dans un jeu de combat.  
   ![Cela donne un bonne idée de notre force](/img/news/3.5_degats-affichage.gif)
 - Bronya Herrscher à de nouvelles intéractions sur le pont, qui font appraître Seele à ses côtés pendant quelques instants.
 

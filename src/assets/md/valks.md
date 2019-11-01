@@ -1,6 +1,6 @@
 ## Valkyries
 
-A dater de la v3.4, il y a 43 battlesuits (+ 4 augmented) pour 12 personnages.
+A dater de la v3.5, il y a 44 battlesuits (+ 5 augmented) pour 12 personnages.
 
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
@@ -55,6 +55,7 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 |             | NS   | Night Squire              | Écuyère Nocturne                | Bio       | A    | -    |
 |             | SK   | Shadow Knight             | Chevalresse d'Ombre             | Mech      | S    | -    |
 |             | PX   | Phoenix                   | Phénix                          | Psy       | S    | -    |
+|             | -    |                           |                                 | Psy       | -    | (VA) |
 | &nbsp;      |      |                           |                                 |           |      |      |
 | Rita        | UR   | Umbral Rose               | Rose Ombrale                    | Psy       | A    | -    |
 |             | PI   | Stalker: Phantom Iron     | Fer Fantôme                     | Mech      | A    | -    |
@@ -65,3 +66,4 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 | Rozaliya    | MC   | Molotov Cherry            | Cerise Molotov                  | Psy       | S    | -    |
 | &nbsp;      |      |                           |                                 |           |      |      |
 | Seele       | SP   | Swallowtail Phantasm      | Fantasme de Machaon             | Quantum   | A    | -    |
+|             | SN   | Stygian Nymph             | Nymphe stygienne                | Quantum   | S    | -    |
