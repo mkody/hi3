@@ -66,4 +66,4 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 | Rozaliya    | MC   | Molotov Cherry            | Cerise Molotov                  | Psy       | S    | -    |
 | &nbsp;      |      |                           |                                 |           |      |      |
 | Seele       | SP   | Swallowtail Phantasm      | Fantasme de Machaon             | Quantum   | A    | -    |
-|             | SN   | Stygian Nymph             | Nymphe stygienne                | Quantum   | S    | -    |
+|             | SN   | Stygian Nymph             | Nymphe Stygienne                | Quantum   | S    | -    |
