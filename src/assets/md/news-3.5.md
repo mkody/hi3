@@ -8,35 +8,34 @@ Cet article est en cours de rédaction. [Contributions appréciés.](https://git
 
 ![Les deux Seele sur le pont](/img/news/3.5_seele_bridge.gif)
 
-Une Seele de rang S fait son apparition. Son Ulti la fait changer de place avec Dark Seele, sans limite de temps. Mais il y a un CD pour changer à nouveau.
+Une Seele de rang S fait son apparition. Son Ulti la fait changer de place avec Dark Seele, sans limite de temps si ce n'est une petite attente pour changer à nouveau.
 
-![Passage à la Dark Seele](/img/news/3.5_seele_switch_dark.gif)
+![Passage à la Dark Seele](/img/news/3.5_seele_switch_dark.gif)  
 ![Et l'inverse, vers la Seele originelle](/img/news/3.5_seele_switch_light.gif)
 
-Cette nouvelle Seele est vue comme très forte pour ses attaques physiques. Elle est placée au même niveau que Fu Hua NS (Rang SSS), mais toujours derrière Theresa TP (et son core 5★).
+Elle est vue comme très forte pour ses attaques physiques, placée au même niveau que Fu Hua NS (Rang SSS) mais toujours derrière Theresa TP (avec son core 5★).
 
 ##### Augment Core pour VA et sa tenue
 
-Au tour de Fu Hua d'obtenir un Core et de nouvelles capacités.
+Au tour de Fu Hua d'obtenir un Core et de nouvelles capacités !
 
-![Tellement la classe !](/img/news/3.5_va_bridge.gif)
-
+![Tellement la classe !](/img/news/3.5_va_bridge.gif)  
 ![And she got the moves](/img/news/3.5_va_fight.gif)
 
 ##### Nouveau système de rank-up
 
-Auparavant, il vous fallait par exemple 100 fragments pour passer une Valk (non-"awakening") de rang S à SS. Maintenant, le système fonctionne comme les armes, stigmatas ou ELFs : vous avez des "niveaux" intermédiaire avec des petites étoiles qui apporteront quelques bonus, jusqu'à ce que vous débloquez le rang au complet vous permettant ainsi de débloquer les skills liés. Passer de S à SS nécessite 3 étapes et SS à SSS 4 étapes.
+Auparavant, il vous fallait par exemple 100 fragments pour passer une Valk (non-"awakening") de rang S à SS. Maintenant, le système fonctionne comme les armes, stigmatas ou ELFs : vous avez des "niveaux" intermédiaires avec des petites étoiles qui apporteront quelques bonus, jusqu'à ce que vous débloquez le rang au complet vous permettant ainsi d'obtenir les skills liés. Passer de S à SS nécessite 3 étapes et SS à SSS 4 étapes.
 
-Exemple pour passer de S à SS :
+Exemple de S à SS :
 - S à S★ => 30 frags
 - S★ à S★★ => 30 frags
 - S★★ à SS => 40 frags
 
-Ou pour une awakened de SS à SSS :
-- SS à SS★ => 150
-- SS★ à SS★★ => 150
-- SS★★ à SS★★★ => 150
-- SS★★★ à SSS => 150
+Ou pour une awakening de SS à SSS :
+- SS à SS★ => 150 frags
+- SS★ à SS★★ => 150 frags
+- SS★★ à SS★★★ => 150 frags
+- SS★★★ à SSS => 150 frags
 
 ##### Nouvelles tenues
 
@@ -48,13 +47,13 @@ La tenue de Roza pour Halloween !
 
 ###### Liliya (Blueberry Blitz)
 
-Liliya elle aussi a une tenue pour Halloween et est à obtenir durant l'event du serveur.
+Liliya elle aussi à une tenue pour Halloween, à obtenir durant l'event du serveur.
 
 ![BB avec sa nouvelle tenue](/img/news/3.5_bb_costume.jpg)
 
 ###### Rita (Umbral Rose)
 
-On dirait une recollor en orange de sa tenue originale mais elle est notée à 4 étoiles...
+On dirait une recoloration en orange de sa tenue originale... mais elle est notée à 4 étoiles.
 
 ![Rite avec sa nouvelle tenue](/img/news/3.5_ur_costume.jpg)
 
@@ -70,7 +69,6 @@ Himeko porte une robe de mariée et a même un effet qui fait apparaître des ai
 
 ![BR avec sa nouvelle tenue](/img/news/3.5_br_costume.gif)
 
-
 ##### 2 Nouvelles armes PRI
 
 - 11th Relic => 11th Leitourgia
@@ -85,7 +83,7 @@ Toutes vos valkyries ont le droit à un bonus de 35% et vous pouvez les amélior
 
 ![Un aperçu de la nouvelle base~](/img/news/3.5_base.png)
 
-Les dortoirs restent par contre inchangés.
+Les dortoirs restent inchangés, si ce n'est que vous débloquez immédiatement les chibis.
 
 ##### Autres changements
 
