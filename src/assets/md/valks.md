@@ -55,7 +55,7 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 |             | NS   | Night Squire              | Écuyère Nocturne                | Bio       | A    | -    |
 |             | SK   | Shadow Knight             | Chevalresse d'Ombre             | Mech      | S    | -    |
 |             | PX   | Phoenix                   | Phénix                          | Psy       | S    | -    |
-|             | -    |                           |                                 | Psy       | -    | (VA) |
+|             | HoF  | Hawk of the Fog           |                                 | Psy       | -    | (VA) |
 | &nbsp;      |      |                           |                                 |           |      |      |
 | Rita        | UR   | Umbral Rose               | Rose Ombrale                    | Psy       | A    | -    |
 |             | PI   | Stalker: Phantom Iron     | Fer Fantôme                     | Mech      | A    | -    |

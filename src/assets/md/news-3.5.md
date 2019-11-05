@@ -10,16 +10,16 @@ Cet article est en cours de rédaction. [Contributions appréciés.](https://git
 
 Une Seele de rang S fait son apparition. Son Ulti la fait changer de place avec Dark Seele, sans limite de temps si ce n'est une petite attente pour changer à nouveau.
 
-![Passage à la Dark Seele](/img/news/3.5_seele_switch_dark.gif)  
+![Passage à la Dark Seele](/img/news/3.5_seele_switch_dark.gif)
 ![Et l'inverse, vers la Seele originelle](/img/news/3.5_seele_switch_light.gif)
 
 Elle est vue comme très forte pour ses attaques physiques, placée au même niveau que Fu Hua NS (Rang SSS) mais toujours derrière Theresa TP (avec son core 5★).
 
 ##### Augment Core pour VA et sa tenue
 
-Au tour de Fu Hua d'obtenir un Core et de nouvelles capacités !
+Au tour de Fu Hua d'obtenir un Core et de nouvelles capacités ! Le nom de sa nouvelle forme s'appellerait "Hawk of the Fog".
 
-![Tellement la classe !](/img/news/3.5_va_bridge.gif)  
+![Tellement la classe !](/img/news/3.5_va_bridge.gif)
 ![And she got the moves](/img/news/3.5_va_fight.gif)
 
 ##### Nouveau système de rank-up
@@ -90,7 +90,7 @@ Les dortoirs restent inchangés, si ce n'est que vous débloquez immédiatement 
 - Un nouveau "type" dans les attaques fait apparition, les attaques "lourdes".
 L'exemple la plus utilisé est l'attaque chargée ou le QTE de Theresa LK. Ces attaques feront des dommages supplémentaires aux boucliers ennemi.
 - Il est maintenant possible de désactiver les QTE pour une Valkyrie, ce qui va devenir utile pour les stratégies en MA.
-- La barre de dégâts des ennemis, affiché en haut de l'écran, montre maintenant les différence d'HP quand il se prennent des dégâts, comme dans un jeu de combat.  
+- La barre de dégâts des ennemis, affiché en haut de l'écran, montre maintenant les différence d'HP quand il se prennent des dégâts, comme dans un jeu de combat.
   ![Cela donne un bonne idée de notre force](/img/news/3.5_degats-affichage.gif)
 - Bronya Herrscher à de nouvelles intéractions sur le pont, qui font appraître Seele à ses côtés pendant quelques instants.
 
