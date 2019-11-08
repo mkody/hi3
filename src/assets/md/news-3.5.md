@@ -1,7 +1,7 @@
-#### Arrivée de la 3.5
+#### La 3.5 arrive le 14 novembre
 
 :::info
-Cet article est en cours de rédaction. [Contributions appréciés.](https://github.com/mkody/hi3/blob/master/src/assets/md/news-3.5.md)
+Cet article n'est qu'un petit résumé. [Contributions appréciés.](https://github.com/mkody/hi3/blob/master/src/assets/md/news-3.5.md)
 :::
 
 ##### Nouvelle Seele
