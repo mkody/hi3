@@ -1,4 +1,14 @@
-#### La 3.5 arrive le 14 novembre
+#### La 3.5 arrive
+
+La maintenance sur Global commence jeudi 14 novembre à 7h (heure de Paris) et _devrait_ durer 6 heures, pour donc une réouverture vers 13h.
+
+##### Preview
+
+<div class="videoWrapper">
+  <iframe
+    src="https://www.youtube.com/embed/Cp5TJycv4x0?hl=fr&playsinline=1&color=white&iv_load_policy=3"
+    width="720" height="405" frameborder="0" allowfullscreen></iframe>
+</div>
 
 :::info
 Cet article n'est qu'un petit résumé. [Contributions appréciés.](https://github.com/mkody/hi3/blob/master/src/assets/md/news-3.5.md)
