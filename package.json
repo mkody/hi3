@@ -14,7 +14,7 @@
     "markdown-it": "^10.0.0",
     "markdown-it-container": "^2.0.0",
     "vue": "^2.6.10",
-    "vue-awesome": "^3.5.4",
+    "vue-awesome": "^4.0.2",
     "vue-meta": "^2.3.1",
     "vue-router": "^3.1.3"
   },
