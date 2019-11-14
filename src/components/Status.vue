@@ -153,22 +153,22 @@ export default {
     fetch('https://s.kdy.ch/hi3s.json')
       .then(r => r.json())
       .then(j => {
-        this.servers.EU.version = this.servers.NA.version = `${j.global.version}(${j.global.build})`
+        this.servers.EU.version = this.servers.NA.version = j.global.version
         this.servers.EU.date = this.servers.NA.date = j.global.date
 
-        this.servers.SEA.version = `${j.os.version}(${j.os.build})`
+        this.servers.SEA.version = j.os.version
         this.servers.SEA.date = j.os.date
 
-        this.servers.KR.version = `${j.kr.version}(${j.kr.build})`
+        this.servers.KR.version = j.kr.version
         this.servers.KR.date = j.kr.date
 
-        this.servers.JP.version = `${j.jp.version}(${j.jp.build})`
+        this.servers.JP.version = j.jp.version
         this.servers.JP.date = j.jp.date
 
-        this.servers.TW.version = `${j.tw.version}(${j.tw.build})`
+        this.servers.TW.version = j.tw.version
         this.servers.TW.date = j.tw.date
 
-        this.servers.CN.version = `${j.gf.version}(${j.gf.build})`
+        this.servers.CN.version = j.gf.version
         this.servers.CN.date = j.gf.date
       })
   },
