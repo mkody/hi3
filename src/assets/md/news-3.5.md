@@ -63,7 +63,7 @@ Liliya elle aussi à une tenue pour Halloween, à obtenir durant l'event du serv
 
 ###### Rita (Umbral Rose)
 
-On dirait une recoloration en orange de sa tenue originale... mais elle est notée à 4 étoiles.
+Une recoloration en orange de sa tenue originale. Vous l'obtennez dans le Battle Pass.
 
 ![Rite avec sa nouvelle tenue](/img/news/3.5_ur_costume.jpg)
 
@@ -81,6 +81,8 @@ Himeko porte une robe de mariée et a même un effet qui fait apparaître des ai
 
 ##### 2 Nouvelles armes PRI
 
+Pour rappel, les armes PRI sont des armes 5 étoiles que nous pouvons upgrade à 6 étoiles avec des matériaux plus rare.
+
 - 11th Relic => 11th Leitourgia
 - Railgun => Positron Blasters
 
@@ -93,7 +95,7 @@ Toutes vos valkyries ont le droit à un bonus de 35% et vous pouvez les amélior
 
 ![Un aperçu de la nouvelle base~](/img/news/3.5_base.png)
 
-Les dortoirs restent inchangés, si ce n'est que vous débloquez immédiatement les chibis.
+Les dortoirs restent inchangés, si ce n'est que vous débloquez _immédiatement_ les chibis des valkyries (mais pas celle des stigmatas).
 
 ##### Autres changements
 
@@ -104,4 +106,3 @@ L'exemple la plus utilisé est l'attaque chargée ou le QTE de Theresa LK. Ces a
   ![Cela donne un bonne idée de notre force](/img/news/3.5_degats-affichage.gif)
 - Bronya Herrscher à de nouvelles intéractions sur le pont, qui font appraître Seele à ses côtés pendant quelques instants.
 
-// Plus à venir...
