@@ -27,7 +27,7 @@ export default {
   name: 'download',
   data () {
     return {
-      apk: 'https://s.kdy.ch/Honkai%20Impact%203rd_3.4.0.apk'
+      apk: 'https://s.kdy.ch/com.miHoYo.bh3global-3.5.1.apk'
     }
   }
 }
