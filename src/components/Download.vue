@@ -27,7 +27,7 @@ export default {
   name: 'download',
   data () {
     return {
-      apk: 'https://s.kdy.ch/com.miHoYo.bh3global-3.5.1.apk'
+      apk: 'https://s.kdy.ch/com.miHoYo.bh3global-3.6.0.apk'
     }
   }
 }
