@@ -13,8 +13,8 @@
         target="_blank" rel="noopener noreferrer"><v-icon name="brands/app-store-ios" /> App Store</a>
       <br>
       <a class="btn btn--windows"
-        href="https://fr.bignox.com/fr/download/fullPackage"
-        target="_blank" rel="noopener noreferrer"><v-icon name="brands/windows" /> Nox pour Windows</a>
+        href="https://download-sea.mihoyo.com/download/os/HI3_Global_Setup.exe"
+        target="_blank" rel="noopener noreferrer"><v-icon name="brands/windows" /> Launcher</a>
       <a class="btn btn--mac"
         href="https://fr.bignox.com/fr/download/fullPackage/mac_fullzip"
         target="_blank" rel="noopener noreferrer"><v-icon name="brands/apple" /> Nox pour Mac</a>

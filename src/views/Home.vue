@@ -2,7 +2,7 @@
   <div class="home">
     <div class="news">
       <h2>Actualités <router-link to="news" tag="small" class="link">[voir tout]</router-link></h2>
-      <markdown-it-vue class="md-news" :content="news.update" />
+      <!-- <markdown-it-vue class="md-news" :content="news.update" /> -->
       <markdown-it-vue class="md-news" :content="news.pc" />
     </div>
     <div class="side">
@@ -24,7 +24,7 @@
 import Status from '@/components/Status.vue'
 import Download from '@/components/Download.vue'
 import Social from '@/components/Social.vue'
-import news35 from 'raw-loader!@/assets/md/news-3.5.md'
+// import news35 from 'raw-loader!@/assets/md/news-3.5.md'
 import newsPC from 'raw-loader!@/assets/md/news-pc.md'
 
 export default {
@@ -37,7 +37,7 @@ export default {
   data () {
     return {
       news: {
-        update: news35,
+        // update: news35,
         pc: newsPC
       }
     }
