@@ -1,6 +1,6 @@
 ## Valkyries
 
-A dater de la v3.5, il y a 44 battlesuits (+ 5 augmented) pour 12 personnages.
+A dater de la v3.6, il y a 45 battlesuits (+ 5 augmented) pour 12 personnages.
 
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
@@ -24,7 +24,8 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 |             | LE   | Lightning Empress         | Impératrice Éclair              | Psy       | S    | -    |
 |             | SF   | Striker Fulminata         | Fulminata Percutrice            | Bio       | -    | (VB) |
 | &nbsp;      |      |                           |                                 |           |      |      |
-| Yae         | Miko | Gyakushinn Miko           | Miko Gyakushinn                 | Psy       | A    | CI   |
+| Yae         | DJ   | Darkbolt Jonin            | Jonin Éclair Sombre             | Bio       | A    | -    |
+|             | Miko | Gyakushinn Miko           | Miko Gyakushinn                 | Psy       | A    | CI   |
 |             | FS   | Flame Sakitama            | Sakitama Enflammée              | Bio       | A    | VB   |
 |             | Meme | Goushinnso Memento        | Goushinnso Memento              | Mech      | S    | SD   |
 | &nbsp;      |      |                           |                                 |           |      |      |
