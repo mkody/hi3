@@ -25,7 +25,7 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 |             | SF   | Striker Fulminata         | Fulminata Percutrice            | Bio       | -    | (VB) |
 | &nbsp;      |      |                           |                                 |           |      |      |
 | Yae         | DJ   | Darkbolt Jonin            | Jonin Éclair Sombre             | Bio       | A    | -    |
-|             | Miko | Gyakushinn Miko           | Miko Gyakushinn                 | Psy       | A    | CI   |
+|             | Miko | Gyakushinn Miko           | Miko Gyakushinn                 | Bio       | A    | CI   |
 |             | FS   | Flame Sakitama            | Sakitama Enflammée              | Bio       | A    | VB   |
 |             | Meme | Goushinnso Memento        | Goushinnso Memento              | Mech      | S    | SD   |
 | &nbsp;      |      |                           |                                 |           |      |      |
