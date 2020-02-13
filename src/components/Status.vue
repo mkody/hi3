@@ -106,7 +106,7 @@ export default {
         KR: {
           version: '...',
           date: 'Loading...',
-          timezone: 'UTC+9',,
+          timezone: 'UTC+9',
           mt: {
             day: 13,
             month: 2,
