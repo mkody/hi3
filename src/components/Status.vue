@@ -106,8 +106,13 @@ export default {
         KR: {
           version: '...',
           date: 'Loading...',
-          timezone: 'UTC+9',
-          mt: '2020-02-13'
+          timezone: 'UTC+9',,
+          mt: {
+            day: 13,
+            month: 2,
+            hour: 13,
+            dur: 6
+          }
         },
         JP: {
           version: '...',
@@ -124,7 +129,12 @@ export default {
           version: '...',
           date: 'Loading...',
           timezone: 'UTC+8',
-          mt: '2020-02-13'
+          mt: {
+            day: 13,
+            month: 2,
+            hour: 12,
+            dur: 6
+          }
         },
         CN: {
           version: '...',
