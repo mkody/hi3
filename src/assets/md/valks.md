@@ -1,6 +1,6 @@
 ## Valkyries
 
-A dater de la v3.6, il y a 45 battlesuits (+ 5 augmented) pour 12 personnages.
+A dater de la v3.7, il y a 46 battlesuits (+ 5 augmented) pour 12 personnages.
 
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
@@ -57,6 +57,7 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 |             | SK   | Shadow Knight             | Chevalresse d'Ombre             | Mech      | S    | -    |
 |             | PX   | Phoenix                   | Phénix                          | Psy       | S    | -    |
 |             | HoF  | Hawk of the Fog           | Aigle du brouillard             | Psy       | -    | (VA) |
+|             | AE   | Azure Empyrea             | Empyrée Azur                    | Psy       | -    | (PX) |
 | &nbsp;      |      |                           |                                 |           |      |      |
 | Rita        | UR   | Umbral Rose               | Rose Ombrale                    | Psy       | A    | -    |
 |             | PI   | Stalker: Phantom Iron     | Fer Fantôme                     | Mech      | A    | -    |
