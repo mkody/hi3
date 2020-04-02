@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="news">
-      <h2>Actualités <router-link to="news" tag="small" class="link">[voir tout]</router-link></h2>
+      <h2>Actualités</h2>
       <!-- <markdown-it-vue class="md-news" :content="news.update" /> -->
       <markdown-it-vue class="md-news" :content="news.pc" />
     </div>

@@ -75,8 +75,8 @@ export default {
           date: 'Loading...',
           timezone: 'UTC+1',
           mt: {
-            day: 13,
-            month: 2,
+            day: 14,
+            month: 5,
             hour: 7,
             dur: 6
           }
@@ -86,8 +86,8 @@ export default {
           date: 'Loading...',
           timezone: 'UTC-5',
           mt: {
-            day: 13,
-            month: 2,
+            day: 14,
+            month: 5,
             hour: 1,
             dur: 6
           }
@@ -97,8 +97,8 @@ export default {
           date: 'Loading...',
           timezone: 'UTC+8',
           mt: {
-            day: 13,
-            month: 2,
+            day: 14,
+            month: 5,
             hour: 12,
             dur: 6
           }
@@ -108,8 +108,8 @@ export default {
           date: 'Loading...',
           timezone: 'UTC+9',
           mt: {
-            day: 13,
-            month: 2,
+            day: 14,
+            month: 5,
             hour: 13,
             dur: 6
           }
@@ -119,8 +119,8 @@ export default {
           date: 'Loading...',
           timezone: 'UTC+9',
           mt: {
-            day: 13,
-            month: 2,
+            day: 14,
+            month: 5,
             hour: 11,
             dur: 7
           }
@@ -130,8 +130,8 @@ export default {
           date: 'Loading...',
           timezone: 'UTC+8',
           mt: {
-            day: 13,
-            month: 2,
+            day: 14,
+            month: 5,
             hour: 12,
             dur: 6
           }
@@ -142,7 +142,7 @@ export default {
           timezone: 'UTC+8',
           mt: {
             day: 14,
-            month: 1,
+            month: 4,
             hour: 10,
             dur: 5
           }
