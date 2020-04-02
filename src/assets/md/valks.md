@@ -69,3 +69,5 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 | &nbsp;      |      |                           |                                 |           |      |      |
 | Seele       | SP   | Swallowtail Phantasm      | Fantasme de Machaon             | Quantum   | A    | -    |
 |             | SN   | Stygian Nymph             | Nymphe Stygienne                | Quantum   | S    | -    |
+| &nbsp;      |      |                           |                                 |           |      |      |
+| Durandal    | VG   | Valkyrie Gloria           | Valkyrie Gloria                 | Quantum   | A    | -    |
