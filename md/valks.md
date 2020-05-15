@@ -1,6 +1,6 @@
 ## Valkyries
 
-A dater de la v3.7, il y a 46 battlesuits (+ 5 augmented) pour 12 personnages.
+A dater de la v3.9, il y a 47 battlesuits (dont 6 avec un variation _augmented_) pour 13 personnages.
 
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
