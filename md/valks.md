@@ -1,6 +1,6 @@
 ## Valkyries
 
-A dater de la v3.9, il y a 47 battlesuits (dont 6 avec un variation _augmented_) pour 13 personnages.
+A dater de la v4.0, il y a 48 battlesuits (dont 6 avec un variation _augmented_) pour 13 personnages.
 
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
@@ -47,6 +47,7 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 | &nbsp;      |      |                           |                                    |           |      |      |
 | Theresa     | VP   | Valkyrie Pledge           | Promesse de Valkyrie               | Psy       | A    | -    |
 |             | SR   | Sakuno Rondo              | Sakuno Rondo                       | Psy       | A    | -    |
+|             | SA   | Starlit Astrologos        | Astrologos de l'éclat stellaire    | Bio       | A    | -    |
 |             | VE   | Violet Executer           | Exécutrice Violette                | Mech      | S    | -    |
 |             | CH   | Celestial Hymn            | Hymne Céleste                      | Bio       | S    | -    |
 |             | LK   | Luna Kindred              | Luna Kindred                       | Bio       | A    | VP   |

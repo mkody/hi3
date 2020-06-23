@@ -3,7 +3,7 @@
 Depuis le 26 décembre 2019, les capitaines Global et KR peuvent jouer à Honkai Impact 3rd sans utiliser d'émulateur sur PC à l'occasion de la 3.6. Pour rappel, CN a eu une Open Beta depuis le 1er août 2019.  
 La version SEA et taïwanaise ont eux aussi enfin accès à la version PC depuis le 13 février 2020.
 
-**Si vous rencontrez des problèmes, [consultez ce document](https://drive.google.com/file/d/1X9vuYfuH7ylcjw3gzDnn3CEU-I-ApeU7/view) (en anglais).**
+**Si vous rencontrez des problèmes, [consultez ce document](https://docs.google.com/spreadsheets/d/1X9vuYfuH7ylcjw3gzDnn3CEU-I-ApeU7/edit) (en anglais).**
 
 Détails de la FAQ :
 

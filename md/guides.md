@@ -15,15 +15,10 @@ Cette page sera completée avec le temps.
 
 ### En français
 
+- [Honkai pour les nuls](https://www.youtube.com/channel/UCZqGegfM36EvTOOA7E_DMOw/videos)
+  Chaîne YouTube avec des tutoriels pour débuter.
 - [Le guide du débutant de Selephim.](https://docs.google.com/document/d/1FNc-ugpD2wUcYAMhIdwc2lpv_pDKStGMJYChEhooBxI/edit)
-  Très recommandé et en français !
-  - [Guide EFV/ELF.](https://docs.google.com/document/d/1MVMdgblZ8w8dj0ifAms4dV7p7iedcmiXMHjEEakrJuw/edit)
-    Pour mieux comprendre ces petites créatures qui vous accompagnent.
-  - [Guide sur le Chemin de l'Apothéose.](https://walkthrough.honkaiimpact3.com/article/show/48/498)
-    Un guide pratique sur le PoA.
-  - [Rita: Phantom Iron / Fer Fantôme](https://docs.google.com/document/d/1S6brUuQh8a_T0kL9d9on1RElUq1I47mgza5ONnWfQK0/edit)
-  - [Bronya: Herrscher of Reason / Herrscher de Raison](https://docs.google.com/document/d/1hn7h-oRvEhCtfCsBcaYze1rnBj0ekTI7SZ7bM7o7-rc/edit)
-  - [Kiana: Void Drifter / Vagabond du Néant](https://docs.google.com/document/d/1l5_tet_Mofuie6BL8buRcx5iCdPVawoFrYipN6H8tJg/edit)
+  Très recommandé et en français ! Contient des liens vers d'autres guides pratiques et les guides de personnages à la fin.
 - [Guide: Marque de Prime par Yd.](https://docs.google.com/document/d/1-rrZJ31nmDDEjnHyYptME2DABDhssYmMZtC4XqNYvkY)
   Ou en anglais "Bounty Mark".
 - [Les guides de NJ.](https://docs.google.com/document/d/1azLtF8IRnLahK97ltakSs_V1cnfJp13YSnaxjX03Su0/edit)
@@ -35,11 +30,5 @@ Cette page sera completée avec le temps.
   Histoirede prendre une bonne valkyrie pour tel boss. Notez qu'il faut avoir un bon stuff quand même.
 - [Guide pour les invasions de Boss.](https://drive.google.com/file/d/1GYJXV8hfG4v4LEfFFJNeYK5CU2z4cPPC/view)
   Il n'est pas entièrement à jour mais donne des pistes.
-
-### Vidéos
-
-<div class="videoWrapper">
-  <iframe
-    src="https://www.youtube.com/embed/?hl=fr&list=PLsFAgKMnW3BAoPyOcynSSFD_IAb49mlI6&listType=playlist&playsinline=1&color=white&iv_load_policy=3"
-    width="720" height="405" frameborder="0" allowfullscreen></iframe>
-</div>
+- [Wiki: Augment Core](https://honkaiimpact3.gamepedia.com/Augment_Core)
+  Liste des Augment Cores et les ressources nécessaires pour rank up.
