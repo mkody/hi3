@@ -1,6 +1,6 @@
 ## Valkyries
 
-A dater de la v4.0, il y a 48 battlesuits (dont 6 avec un variation _augmented_) pour 13 personnages.
+A dater de la v4.1, il y a 49 battlesuits (dont 6 avec un variation _augmented_) pour 13 personnages.
 
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
@@ -22,6 +22,7 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 |             | VB   | Valkyrie Bladestrike      | Valkyrie Bladestrike               | Bio       | A    | -    |
 |             | SD   | Shadow Dash               | Célérité d'Ombre                   | Mech      | A    | -    |
 |             | LE   | Lightning Empress         | Impératrice Éclair                 | Psy       | S    | -    |
+|             | HoT  | Herrscher of Thunder      | Herrscher du Tonnerre              | Psy       | S    | -    |
 |             | SF   | Striker Fulminata         | Fulminata Percutrice               | Bio       | -    | (VB) |
 | &nbsp;      |      |                           |                                    |           |      |      |
 | Yae         | DJ   | Darkbolt Jonin            | Jonin Éclair Sombre                | Bio       | A    | -    |
