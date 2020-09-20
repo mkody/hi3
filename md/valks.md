@@ -64,6 +64,7 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 | Rita        | UR   | Umbral Rose               | Rose Ombrale                       | Psy       | A    | -    |
 |             | PI   | Stalker: Phantom Iron     | Fer Fantôme                        | Mech      | A    | -    |
 |             | AKA  | Argent Knight: Artemis    | Chevalresse d'Argent : Artemis     | Bio       | S    | -    |
+|             | FR   | Fallen Rosemary           | Rosemary déchue                    | Quantum   | S    | -    |
 | &nbsp;      |      |                           |                                    |           |      |      |
 | Liliya      | BB   | Blueberry Blitz           | Myrtille Blitz                     | Mech      | A    | -    |
 | &nbsp;      |      |                           |                                    |           |      |      |
