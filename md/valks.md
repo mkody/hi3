@@ -1,6 +1,6 @@
 ## Valkyries
 
-A dater de la v4.2, il y a 50 battlesuits (dont 7 avec un variation _augmented_) pour 13 personnages.
+En v4.3, il y a 58 battlesuits (37 _normales_, 14 _awakening_, 7 _augmented_) pour 13 personnages.
 
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
@@ -59,8 +59,8 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 |             | NS   | Night Squire              | Écuyère Nocturne                   | Bio       | A    | -    |
 |             | SK   | Shadow Knight             | Chevalresse d'Ombre                | Mech      | S    | -    |
 |             | PX   | Phoenix                   | Phénix                             | Psy       | S    | -    |
+|             | AE   | Azure Empyrea             | Empyrée Azur                       | Psy       | S    | PX   |
 |             | HoF  | Hawk of the Fog           | Aigle du brouillard                | Psy       | -    | (VA) |
-|             | AE   | Azure Empyrea             | Empyrée Azur                       | Psy       | -    | (PX) |
 | &nbsp;      |      |                           |                                    |           |      |      |
 | Rita        | UR   | Umbral Rose               | Rose Ombrale                       | Psy       | A    | -    |
 |             | PI   | Stalker: Phantom Iron     | Fer Fantôme                        | Mech      | A    | -    |
@@ -70,6 +70,7 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 | Liliya      | BB   | Blueberry Blitz           | Myrtille Blitz                     | Mech      | A    | -    |
 | &nbsp;      |      |                           |                                    |           |      |      |
 | Rozaliya    | MC   | Molotov Cherry            | Cerise Molotov                     | Psy       | S    | -    |
+|             | FT   | Fervent Tempo Δ           | Fervent Tempo Δ                    | Psy       | -    | (MC) |
 | &nbsp;      |      |                           |                                    |           |      |      |
 | Seele       | SP   | Swallowtail Phantasm      | Fantasme de Machaon                | Quantum   | A    | -    |
 |             | SN   | Stygian Nymph             | Nymphe Stygienne                   | Quantum   | S    | -    |
