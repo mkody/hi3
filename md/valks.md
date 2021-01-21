@@ -1,6 +1,6 @@
 ## Valkyries
 
-En v4.4, il y a 59 battlesuits (38 _normales_, 14 _awakening_, 7 _augmented_) pour 13 personnages.
+En v4.5, il y a 60 battlesuits (39 _normales_, 14 _awakening_, 7 _augmented_) pour 13 personnages.
 
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
@@ -78,3 +78,5 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 | Durandal    | VG   | Valkyrie Gloria           | Valkyrie Gloria                    | Quantum   | A    | -    |
 |             | BK   | Bright Knight: Excelsis   | Chevaleresse de lumière : Excelsis | Mech      | S    | -    |
 |             | DA   | Dea Anchora               | Dea Anchora                        | Bio       | S    | -    |
+| &nbsp;      |      |                           |                                    |           |      |      |
+| Asuka       | BH   | Blazing Hope              | Espoir flamboyant                  | Bio       | A    |      |
