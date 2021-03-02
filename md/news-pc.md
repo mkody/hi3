@@ -5,6 +5,9 @@ La version SEA et taïwanaise ont eux aussi enfin accès à la version PC depuis
 
 **Si vous rencontrez des problèmes, [consultez ce document](https://docs.google.com/spreadsheets/d/1X9vuYfuH7ylcjw3gzDnn3CEU-I-ApeU7/edit) (en anglais).**
 
+Notez que si vous avez fait vos premiers achats sur mobile, il se peut que ça ne fonctionne plus via le client PC.  
+Utilisez votre CB la première fois sur PC avant d'utiliser Google Play ou l'App Store !
+
 Détails de la FAQ :
 
 - Liez votre compte MiHoYo pour partager votre progressions depuis la version mobile.

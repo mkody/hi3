@@ -6,7 +6,7 @@ Cette page sera completée avec le temps.
 
 ### Officiel
 
-- [Le site officiel pour l'Europe et les US.](http://www.global.honkaiimpact3.com/)
+- [Le site officiel pour l'Europe et les US.](https://honkaiimpact3.mihoyo.com/global/fr-fr/home)
   Les liens de téléchargement sont directement sur l'accueil.
 - [Hub officiel des guides et walkthroughs.](https://walkthrough.honkaiimpact3.com/)
   Beaucoup de ressources par là, majoritairement en anglais (il y a quelques articles en FR).
@@ -26,9 +26,11 @@ Cette page sera completée avec le temps.
 
 ### En anglais
 
-- [Tableau pour le Memorial Arena.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUhYlLoEkAfh10SztZv0yn7KF83FP7DrtEVhYtztS7sFQNwVjD8jsrelGunE6L0BGqImfisavi_ELi/pubhtml?gid=0&single=true)
-  Histoirede prendre une bonne valkyrie pour tel boss. Notez qu'il faut avoir un bon stuff quand même.
-- [Guide pour les invasions de Boss.](https://drive.google.com/file/d/1GYJXV8hfG4v4LEfFFJNeYK5CU2z4cPPC/view)
-  Il n'est pas entièrement à jour mais donne des pistes.
+- [Honkai Helper](https://honkai-guide.web.app/)
+  Outil pour chercher des vidéos contre des boss et calculatrice de votre composition.
+- [Honkai Info Centre de Marisa](https://www.youtube.com/playlist?list=PLEFjMtmQPRPt6GCWcZLji6KWzGwKxe0Yz)
+  Playlist YouTube avec des infos et guides.
+- [**Vieux** tableau pour le Memorial Arena.](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUhYlLoEkAfh10SztZv0yn7KF83FP7DrtEVhYtztS7sFQNwVjD8jsrelGunE6L0BGqImfisavi_ELi/pubhtml?gid=0&single=true)
+  Histoire de prendre une bonne valkyrie pour tel boss. Notez qu'il faut avoir un bon stuff quand même.
 - [Wiki: Augment Core](https://honkaiimpact3.gamepedia.com/Augment_Core)
   Liste des Augment Cores et les ressources nécessaires pour rank up.
