@@ -1,6 +1,6 @@
 ## Valkyries
 
-En v4.6, il y a 61 battlesuits (39 _normales_, 15 _awakening_, 7 _augmented_) pour 14 personnages.
+En v4.7, il y a 62 battlesuits (40 _normales_, 15 _awakening_, 7 _augmented_) pour 14 personnages.
 
 La colonne "A/C" est pour le "Soul **A**wakening" (la forme "d'éveil" du personnage indiqué) ou pour la version amélioré avec un "Augment **C**ore" si entre parenthèses.
 Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être utilisée en même temps dans le niveau.
@@ -35,6 +35,7 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 |             | SS   | Snowy Sniper              | Sniper Enneigée                    | Bio       | A    | -    |
 |             | YA   | Yamabuki Armor            | Armure Yamabuki                    | Psy       | A    | -    |
 |             | DB   | Dimensional Breaker       | Briseuse Dimensionnelle            | Mech      | S    | -    |
+|             | HB   | Haxxor Bunny              | Haxxor lapine                      | Psy       | S    | -    |
 |             | WD   | Wolf's Dawn               | Aube du Loup                       | Psy       | A    | YA   |
 |             | BN   | Black Nucleus             | Noyau Sombre                       | Bio       | S    | SS   |
 |             | HoR  | Herrscher of Reason       | Herrscher de Raison                | Mech      | S    | DB   |
