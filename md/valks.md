@@ -35,7 +35,7 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 |             | SS   | Snowy Sniper              | Sniper Enneigée                    | Bio       | A    | -    |
 |             | YA   | Yamabuki Armor            | Armure Yamabuki                    | Psy       | A    | -    |
 |             | DB   | Dimensional Breaker       | Briseuse Dimensionnelle            | Mech      | S    | -    |
-|             | HB   | Haxxor Bunny              | Haxxor lapine                      | Psy       | S    | -    |
+|             | HB   | Haxxor Bunny              | Haxxor lapine                      | Psy       | A    | -    |
 |             | WD   | Wolf's Dawn               | Aube du Loup                       | Psy       | A    | YA   |
 |             | BN   | Black Nucleus             | Noyau Sombre                       | Bio       | S    | SS   |
 |             | HoR  | Herrscher of Reason       | Herrscher de Raison                | Mech      | S    | DB   |
