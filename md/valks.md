@@ -82,6 +82,6 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 |             | BK   | Bright Knight: Excelsis      | Chevaleresse de lumière : Excelsis | Mech      | S    | -    |
 |             | DA   | Dea Anchora                  | Dea Anchora                        | Bio       | S    | -    |
 | &nbsp;      |      |                              |                                    |           |      |      |
-| Asuka       | BH   | Blazing Hope                 | Espoir flamboyant                  | Bio       | A    |      |
+| Asuka       | BH   | Blazing Hope                 | Espoir flamboyant                  | Bio       | A    | -    |
 | &nbsp;      |      |                              |                                    |           |      |      |
-| Fischl      | PV   | Prinzessin der Verurteilung! | Princesse du châtiment             | Bio       | A    |      |
+| Fischl      | PV   | Prinzessin der Verurteilung! | Princesse du châtiment             | Bio       | A    | -    |
