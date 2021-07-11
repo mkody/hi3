@@ -84,4 +84,4 @@ Quand vous sélectionnez une valkyrie, sa forme alternative ne peut pas être ut
 | &nbsp;      |      |                              |                                    |           |      |      |
 | Asuka       | BH   | Blazing Hope                 | Espoir flamboyant                  | Bio       | A    | -    |
 | &nbsp;      |      |                              |                                    |           |      |      |
-| Fischl      | PV   | Prinzessin der Verurteilung! | Princesse du châtiment             | Bio       | A    | -    |
+| Fischl      | PdV  | Prinzessin der Verurteilung! | Princesse du châtiment             | Bio       | A    | -    |
